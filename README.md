@@ -1,3 +1,7 @@
 # Dell_PowerEdge-R610
 Passo a passo para configuração do Servidor
-# Teste
+
+#
+Configuração IDRAC6
+Configuração H700
+Instalação do Ubuntu_Server
